@@ -26,17 +26,17 @@ An end-to-end Data Analytics & Engineering project analyzing **34,500+ clean e-c
 **Page 1 — Sales Overview (Financial Performance & Trends)**
 Focuses on macro-level business performance, sales trends across categories, payment method breakdowns, and day-of-week revenue distributions.
 - Key Visuals: KPI Cards (Orders, Net Revenue, Net Profit, Margin %, AOV), Net Revenue by Category Bar Chart, Payment Method Donut Chart, Monthly Profit Trend Line, Net Revenue by Days Bar Chart.
-  ![Sales Overview](assets/sales_overview.png)
+![Sales Overview](assets/sales_overview.png)
 
 **Page 2 — Customer Insights (Demographics & RFM Behavior)**
 Analyzes customer concentration, RFM segmentation cohorts, age/gender purchasing power, and regional customer value distribution.
 - Key Visuals: Top Customer KPIs (Total Customers, ARPU, Avg Orders, Champions Count, At Risk Count), Customer Segment Bar Chart, Revenue by Age Group & Gender Stacked Column Chart, Top Customers Performance Table.
-  ![Customer Insights](assets/customer_insights.png)
+![Customer Insights](assets/customer_insights.png)
 
 **Page 3 — Product & Shipping (Discount Leakage & Logistics)**
 Examines product margin profitability, discount erosion dynamics, delivery speed performance, and return rate drivers.
 - Key Visuals: Operational KPIs (Total Discount, Return Rate %, Unprofitable Orders, Avg Delivery Days, Shipping Cost), Net Profit by Quantity Line Chart, Return Rate by Category & Delivery Speed Bar Chart, Product Profitability Matrix.
-  ![Product & Shipping](assets/product_shipping.png)
+![Product & Shipping](assets/product_shipping.png)
 
 ### Dashboard UX Features
 
