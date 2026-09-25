@@ -31,7 +31,7 @@ Focuses on overall business health, sales distribution across product categories
 **Page 2: Customer Insights (Demographics & RFM Segmentation)**
 Analyzes customer demographic cohorts, RFM value tiers, age and gender revenue contributions, and high-value customer regional performance.
 - Key Visuals: Customer KPIs (Total Customers, ARPU, Avg Orders, Champions Count, At Risk Count), Customer Segment Bar Chart, Revenue by Age Group & Gender Stacked Column Chart, Top Customers Performance Table.
-![Customer Insights](📁 assets/customer_insights.png)
+![Customer Insights](assets/customer_insights.png)
 
 **Page 3: Product & Shipping (Discount Leakage & Logistics)**
 Examines category profit margins, promotional discount margin erosion, shipping lead-time impacts, and product return rate drivers.
